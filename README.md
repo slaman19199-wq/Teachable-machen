@@ -15,3 +15,4 @@ After ensuring the paths are correct, go to the bottom-left corner of the Visual
 Finally, we execute the code to preview the model results and test the classification accuracy.
 First, we download and install Anaconda on the machine. Then, we create a new virtual environment and select Python 3.10.18. After creating the environment, we click "Open Terminal" to open the terminal within Anaconda. Then, we begin installing the required libraries one by one. We type the command "pip install opencv-python" and wait for the installation to complete. Then, we type the second command "pip install pillow" and wait for it to complete. After that, we type the final command "pip install tensorflow==2.12.1". After completing the download of these packages, the environment is ready to use and work on the project.
 "C:\Users\AL-anoud\Documents\sun1.jpg"
+"C:\Users\AL-anoud\Documents\code.jpg"
